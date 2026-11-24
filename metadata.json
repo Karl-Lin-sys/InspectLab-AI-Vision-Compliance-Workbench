@@ -1,0 +1,8 @@
+{
+  "name": "InspectLab — AI Vision & Compliance Workbench",
+  "description": "Peer-reviewed AI visual inspection architecture comparison, official-doc Python pipelines with Big-O analysis, bias mitigation, NIST CSF 2.0 controls, and multi-jurisdiction GitHub readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
